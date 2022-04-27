@@ -28,4 +28,3 @@ services:
 
 networks:
   default:
-    name: all_for_one_net
